@@ -8,4 +8,6 @@ The project will comprise the following steps:
 - collecting the data through scraping and API requests;
 - loading the data onto a PostgreSQL database;
 - querying the database with SQL;
-- visualizing the output of the queries
+- visualizing the output of the queries.
+
+My hope is that this project may succeed in showcasing my skills in API requests, scraping, regex, EDA, data cleaning, databases and data visualization. 
