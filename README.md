@@ -6,6 +6,7 @@ In this project "popularity" is defined as the number of ratings a film has rece
 The project will comprise the following steps:
 
 - collecting the data through scraping and API requests;
+- cleaning the data and doing some EDA;
 - loading the data onto a PostgreSQL database;
 - querying the database with SQL;
 - visualizing the output of the queries.
