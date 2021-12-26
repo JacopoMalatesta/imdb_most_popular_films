@@ -7,7 +7,7 @@ The project will comprise the following steps:
 
 - collecting the data through scraping and API requests;
 - cleaning the data and doing some EDA;
-- loading the data onto a PostgreSQL database;
+- loading the data to a MYSQL database on Amazon RDS;
 - querying the database with SQL;
 - visualizing the output of the queries.
 
